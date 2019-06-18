@@ -1,5 +1,5 @@
 {
-  "name": "ankita",
+  "name": "itsankita11.github.io",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://itsankita11.github.io/ankita"
+  "homepage": "https://itsankita11.github.io/"
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
